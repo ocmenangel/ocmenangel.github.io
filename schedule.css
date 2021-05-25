@@ -1,5 +1,10 @@
 table {
-  width:50%;
+   margin-top: 2%;
+    width: max-content;
+    border: 1px solid black;
+    height: 300px;
+    margin-left: 23%;
+  
 }
 table, th, td {
   border: 20px solid aqua;
