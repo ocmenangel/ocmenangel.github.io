@@ -1,3 +1,7 @@
+body {
+  background-image: url('answer.jpg');
+}
+
 table {
    margin-top: 2%;
     width: max-content;
